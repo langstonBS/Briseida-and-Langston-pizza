@@ -1,0 +1,30 @@
+header h1 {
+    font-family: cursive;
+    line-height: 0em;
+    
+}
+
+header h6 {
+    font-family: 'Courier New', Courier, monospace;
+    text-transform: uppercase;
+    line-height: 0em;
+}
+
+#chocolate-pizza h1 {
+    display: block;
+    font-size: 2em;
+    font-family: sans-serif;
+    font-weight: bold;
+    max-width: 500px;
+}
+
+#chocolate-pizza h6 {
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 0em;
+
+}
+
+#chocolate-pizza h2 {
+    font-family: 'Times New Roman', Times, serif;
+    
+}
