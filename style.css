@@ -1,0 +1,52 @@
+body {
+    max-width: 940px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+.heading-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: initial;
+    width: 900px;
+   
+    
+}
+#delicious-box {
+    display: flex;
+    align-items: center;
+}
+
+#delicious-box img {
+    height: 45px;
+    width: 45px;
+
+}
+
+#top-side-logo{
+    float: right;
+
+}
+#top {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+
+}
+#chocolate-pizza {
+    
+}
+#print-div {
+    display: flex;
+    align-items: baseline;
+    justify-content: flex-end;
+
+}
+
+#print-div  img {
+    height: 12px;
+    width: 10px;
+
+
+}
+
